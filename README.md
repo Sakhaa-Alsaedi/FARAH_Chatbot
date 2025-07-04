@@ -6,6 +6,8 @@
 [![Multilingual](https://img.shields.io/badge/Languages-EN%7CAR%7CZH-brightgreen.svg)](./docs/multilingual_support.md)
 [![Robot Integration](https://img.shields.io/badge/Robot-Integrated-orange.svg)](./robot/README.md)
 
+![Image](https://github.com/user-attachments/assets/a19b3990-cb12-459d-8561-11f097d0ff56)
+
 **FARAH (Feature-driven Adaptive Response for Autism Healthy Habits)** - An AI assistant designed to support children with Autism Spectrum Disorder (ASD) in developing communication and social skills through multimodal interactions and robotic integration.
 
 ## 🌟 Project Overview
